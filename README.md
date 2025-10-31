@@ -1,11 +1,11 @@
 # Cobertura de Testes
 
 ## Objetivo
-Utilizar e explorar ferramentas de cobertura de testes em sistemas reais.
+Utilizar e explorar ferramentas de cobertura de testes em dois sistemas reais.
 
 ## Descrição
 
-1. **Executar os testes de dois projetos popular**. Escolha **dois** projetos de código aberto populares no GitHub e aprenda a executar os seus testes. Dependendo do projeto selecionado, talvez seja necessário ler a documentação.
+1. **Executar os testes de dois projetos populares**. Selecione **dois** projetos de código aberto populares no GitHub e aprenda a executar os seus testes. Dependendo do projeto selecionado, talvez seja necessário ler a documentação.
    
 2. **Gerar relatório HTML de cobertura de testes**. Após executar os testes, gere o relatório HTML de cobertura de testes para o projeto selecionado. Note que a ferramenta de cobertura vai depender da linguagem de programação do projeto selecionado, por exemplo, [Coverage.py](https://coverage.readthedocs.io/) (Python), [JaCoCo](https://www.eclemma.org/jacoco) (Java), [Istanbul](https://istanbul.js.org/) (JavaScript), entre outras.
 
